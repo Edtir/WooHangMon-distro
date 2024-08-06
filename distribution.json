@@ -363,7 +363,6 @@
           "artifact": {
             "size": 3558933,
             "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.1.4.jar",
-            "MD5": "00e92d25abe4c6bcf5134033e8a27edd"
           }
         },
         {
@@ -373,7 +372,6 @@
           "artifact": {
             "size": 12422499,
             "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/Custom-NPCs-Mod-Forge-1.16.5.jar",
-            "MD5": "68465e3a072664a92427b0f12332357f"
           }
         },
         {
@@ -393,7 +391,6 @@
           "artifact": {
             "size": 40679,
             "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/optionalon/GGongKoreanChat.jar",
-            "MD5": "3dc0252e46b6eec06df2fb5589c00ef3"
           },
           "required": {
             "value": false
@@ -426,7 +423,6 @@
           "artifact": {
             "size": 7703379,
             "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.18.jar",
-            "MD5": "c9af17491561bf9ac3ceedce02eafeb9"
           }
         },
         {
