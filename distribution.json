@@ -12,7 +12,7 @@
       "name": "우행몬 시즌 2 (Minecraft 1.16.5)",
       "description": "WooHangMon Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/serverimg.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "www.woohangmon.kro.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -375,13 +375,13 @@
           }
         },
         {
-          "id": "woohangmon.zip",
-          "name": "woohangmon.zip",
+          "id": "a5419c632b52bba3f82c11ebb8553a9b8d922150",
+          "name": "a5419c632b52bba3f82c11ebb8553a9b8d922150",
           "type": "File",
           "artifact": {
             "size": 51591280,
-            "url": "https://www.dropbox.com/scl/fo/lty3ik56z7zwote4phg82/AEQcX0SQYapeLdC1AqBTONM?rlkey=8wn2n3yc8szx9dq7q5zs1vz22&st=414asurn&dl=1",
-            "path": "server-resource-packs/woohangmon.zip"
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/files/server-resource-packs/a5419c632b52bba3f82c11ebb8553a9b8d922150",
+            "path": "server-resource-packs/a5419c632b52bba3f82c11ebb8553a9b8d922150"
           }
         },
         {
