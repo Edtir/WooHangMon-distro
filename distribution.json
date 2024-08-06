@@ -12,7 +12,7 @@
       "name": "우행몬 시즌 2 (Minecraft 1.16.5)",
       "description": "WooHangMon Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/serverimg.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "www.woohangmon.kro.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -362,7 +362,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3558933,
-            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.1.4.jar"
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.1.4.jar",
+            "MD5": "00e92d25abe4c6bcf5134033e8a27edd"
           }
         },
         {
@@ -371,17 +372,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12422499,
-            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/Custom-NPCs-Mod-Forge-1.16.5.jar"
-          }
-        },
-        {
-          "id": "a5419c632b52bba3f82c11ebb8553a9b8d922150",
-          "name": "a5419c632b52bba3f82c11ebb8553a9b8d922150",
-          "type": "File",
-          "artifact": {
-            "size": 51591280,
-            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/files/server-resource-packs/a5419c632b52bba3f82c11ebb8553a9b8d922150",
-            "path": "server-resource-packs/a5419c632b52bba3f82c11ebb8553a9b8d922150"
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/Custom-NPCs-Mod-Forge-1.16.5.jar",
+            "MD5": "68465e3a072664a92427b0f12332357f"
           }
         },
         {
@@ -390,20 +382,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40679,
-            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/optionalon/GGongKoreanChat.jar"
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/optionalon/GGongKoreanChat.jar",
+            "MD5": "3dc0252e46b6eec06df2fb5589c00ef3"
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "generated.library:OptiFine_1.16.5_HD_U_G8:0.0.0@jar",
-          "name": "OptiFine_1.16.5_HD_U_G8",
-          "type": "Library",
-          "artifact": {
-            "size": 6046996,
-            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           }
         },
         {
@@ -422,7 +405,29 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7703379,
-            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.18.jar"
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.18.jar",
+            "MD5": "c9af17491561bf9ac3ceedce02eafeb9"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G8:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G8",
+          "type": "Library",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+          }
+        },
+        {
+          "id": "woohangmon.zip",
+          "name": "woohangmon.zip",
+          "type": "File",
+          "artifact": {
+            "size": 51591280,
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/files/resourcepacks/woohangmon.zip",
+            "MD5": "a8ca554b3f25e9420b9a28a6312d5601",
+            "path": "resourcepacks/woohangmon.zip"
           }
         },
         {
