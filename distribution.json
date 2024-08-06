@@ -362,7 +362,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3558933,
-            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.1.4.jar",
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.1.4.jar"
           }
         },
         {
@@ -371,7 +371,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12422499,
-            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/Custom-NPCs-Mod-Forge-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/Custom-NPCs-Mod-Forge-1.16.5.jar"
           }
         },
         {
@@ -390,7 +390,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40679,
-            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/optionalon/GGongKoreanChat.jar",
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/optionalon/GGongKoreanChat.jar"
           },
           "required": {
             "value": false
@@ -422,7 +422,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7703379,
-            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.18.jar",
+            "url": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/servers/WooHangMon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.18.jar"
           }
         },
         {
